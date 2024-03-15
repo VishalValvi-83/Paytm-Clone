@@ -704,20 +704,30 @@ header .header-btn:hover {
 }
 @media screen and (max-width: 900px) {
     header {
-        width: 100% !important;
+        width: 100%;
+        top: 0;
+        position: sticky;
+        -webkit-box-shadow: 0 4px 8px rgba(0,0,0,.08);
+        box-shadow: 0 4px 8px rgba(0,0,0,.08);
     }
-   
+
     header .header-container {
         padding: 9px 20px 9px 0;
         min-height: 55px;
         width: 100% !important;
         height: 100%;
-        -webkit-box-sizing: border-box;
         box-sizing: border-box;
         position: relative;
         top: 0;
         z-index: 4;
-        -ms-flex-pack: justify;
         justify-content: space-between;
     }
+    .headline {
+        height: auto;
+        padding: 8px 16px;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 18px;
+    }
+    
 }
