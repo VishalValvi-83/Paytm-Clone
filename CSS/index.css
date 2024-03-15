@@ -1,7 +1,7 @@
 header {
     background: #fff;
     width: 100%;
-    -webkit-box-shadow: 0 5px 20px rgba(0,41,112,.1);
+    -webkit-box-shadow: 0 5px 20px rgba(0, 41, 112, .1);
     box-shadow: 0 5px 20px rgba(0, 41, 112, .1);
     position: sticky;
     top: 0;
@@ -131,10 +131,10 @@ header .header-btn:hover {
     right: 0;
 }
 
-.dwnld-btn a svg {
+.dwnld-btn a img {
     padding-left: 10px;
     width: 15px;
-    fill: #fff;
+    color: #fff;
 }
 
 .dwnld-btn {
@@ -697,18 +697,20 @@ header .header-btn:hover {
     width: 72px;
     height: 72px;
 }
-@media screen and (max-width: 630px){
-    .header-btn{
+
+@media screen and (max-width: 630px) {
+    .header-btn {
         visibility: hidden;
     }
 }
+
 @media screen and (max-width: 900px) {
     header {
         width: 100%;
         top: 0;
         position: sticky;
-        -webkit-box-shadow: 0 4px 8px rgba(0,0,0,.08);
-        box-shadow: 0 4px 8px rgba(0,0,0,.08);
+        -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, .08);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, .08);
     }
 
     header .header-container {
@@ -722,6 +724,7 @@ header .header-btn:hover {
         z-index: 4;
         justify-content: space-between;
     }
+
     .headline {
         height: auto;
         padding: 8px 16px;
@@ -729,5 +732,5 @@ header .header-btn:hover {
         font-weight: 500;
         line-height: 18px;
     }
-    
+
 }
