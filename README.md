@@ -48,9 +48,13 @@ To run this project locally, follow these steps:
 ## Screenshots
 
 ![Screenshot of website](./images/Screenshot%20(169).png)
+
 ![Screenshot of website](./images/Screenshot%20(170).png)
+
 ![Screenshot of website](./images/Screenshot%20(171).png)
+
 ![Screenshot of website](./images/Screenshot%20(172).png)
+
 ![Screenshot of website](./images/Screenshot%20(173).png)
 
 ## Contributing
