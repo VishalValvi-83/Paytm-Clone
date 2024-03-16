@@ -2,6 +2,8 @@
 
 This project is a frontend-only clone of the popular Indian payment platform, Paytm. It aims to replicate the user interface and basic functionality of Paytm using HTML, CSS, and JavaScript.
 
+## Check out [Project](https://paytmclonebyvvv83.netlify.app/) 🔗
+
 ## Features
 
 - User registration and authentication
