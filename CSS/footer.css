@@ -4,13 +4,13 @@
 
 }
 
-.footer .footer-container {
+.footer .foot-container {
     width: 100%;
     margin: 0 auto;
     padding-bottom: 150px;
 }
 
-footer .footer-container .social-contents {
+footer .foot-container .social-contents {
     padding-bottom: 60px;
     margin-bottom: 60px;
     display: flex;
@@ -19,40 +19,40 @@ footer .footer-container .social-contents {
     justify-content: space-between;
 }
 
-footer .footer-container .social-contents .app {
+footer .foot-container .social-contents .app {
     display: flex;
 }
 
-footer .footer-container .social-contents .app span {
+footer .foot-container .social-contents .app span {
     width: 230px;
     font-size: 20px;
     color: #000;
     font-weight: 600;
 }
 
-footer .footer-container .social-contents .app a {
+footer .foot-container .social-contents .app a {
     text-decoration: none;
     color: #00b9f5;
     cursor: pointer;
     position: relative;
 }
 
-footer .footer-container .social-contents a img {
+footer .foot-container .social-contents a img {
     margin-right: 10px;
     width: 100%;
 }
 
-footer .footer-container .social-contents .social-link a img {
+footer .foot-container .social-contents .social-link a img {
     width: 25px;
     margin-right: 30px;
     cursor: pointer;
 }
 
-footer .footer-container .social-contents .social-link a .last-icon {
+footer .foot-container .social-contents .social-link a .last-icon {
     width: 12px;
 }
 
-footer .footer-container .links .content {
+footer .foot-container .links .content {
     padding: 15px 0;
     cursor: pointer;
     position: relative;
@@ -64,17 +64,17 @@ footer .footer-container .links .content {
     font-weight: 700;
 }
 
-footer .footer-container .links .content:before {
+footer .foot-container .links .content:before {
     content: "";
     -ms-flex: 1 1;
     flex: 1 1;
 }
 
-footer .footer-container .links .content:before {
+footer .foot-container .links .content:before {
     border-bottom: 1px solid #ccc;
 }
 
-footer .footer-container .links .content img {
+footer .foot-container .links .content img {
     height: 12px;
     margin-right: 2px;
 }
