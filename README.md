@@ -26,27 +26,6 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
-## Project Structure
-
-│
-
-├── index.html # Entry point of the application
-
-├── css/
-
-│ └── styles.css # Stylesheet file
-
-├── js/
-
-│ └── script.js # JavaScript file containing logic
-
-├── images/ # Directory for images
-
-│
-
-└── README.md # Project documentation
-
-
 ## Screenshots
 
 ![Screenshot of website](./images/Screenshot%20(169).png)
